@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmgwilliams%2Faiohttp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmgwilliams%2Faiohttp?ref=badge_shield)
+
 http client/server for asyncio
 ==============================
 
@@ -149,3 +151,7 @@ Benchmarks
 If you are interested in by efficiency, AsyncIO community maintains a
 list of benchmarks on the official wiki:
 https://github.com/python/asyncio/wiki/Benchmarks
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmgwilliams%2Faiohttp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmgwilliams%2Faiohttp?ref=badge_large)
